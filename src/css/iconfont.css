@@ -1,0 +1,37 @@
+@import url(./font/iconfont.css);
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-homepage:before {
+  content: "\e8fa";
+}
+
+.icon-github:before {
+  content: "\e600";
+}
+
+.icon-email:before {
+  content: "\e606";
+}
+
+.icon-phone:before {
+  content: "\e6f9";
+}
+
+.icon-dot:before {
+  content: "\e605";
+}
+
+.icon-link:before {
+  content: "\e602";
+}
+
+.icon-pdf:before {
+  content: "\e607";
+}
+
